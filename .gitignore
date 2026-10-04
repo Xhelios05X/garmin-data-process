@@ -1,0 +1,14 @@
+# personal data
+garmin_exports/
+*.fit
+*.zip
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# secrets
+.env
