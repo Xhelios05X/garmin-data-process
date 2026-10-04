@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/garmin_metrics/__init__.py
-src/garmin_metrics.egg-info/PKG-INFO
-src/garmin_metrics.egg-info/SOURCES.txt
-src/garmin_metrics.egg-info/dependency_links.txt
-src/garmin_metrics.egg-info/requires.txt
-src/garmin_metrics.egg-info/top_level.txt
-tests/test_smoke.py
